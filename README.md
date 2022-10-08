@@ -1,5 +1,5 @@
 # tkinter-project
-**Calculator  and Login page using tkinter
+**Calculator  and Login page using tkinter**
 
 ## Calculator
 
