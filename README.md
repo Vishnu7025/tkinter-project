@@ -1,2 +1,5 @@
 # tkinter-project
-Login page and calculator using tkinter
+Calculator page and Login using tkinter
+
+##Calculator
+####Performs all arithmetic operations
