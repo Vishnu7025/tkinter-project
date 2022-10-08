@@ -1,6 +1,6 @@
 # tkinter-project
 Calculator page and Login using tkinter
 
-##Calculator
+## Calculator
 
-####Performs all arithmetic operations
+#### Performs all arithmetic operations
